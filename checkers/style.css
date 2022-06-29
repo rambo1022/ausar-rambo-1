@@ -1,11 +1,17 @@
+.container{
+    border-width: 10px;
+    border-color: #020202;
+    border-style: solid;
+}
 .col {
     height: 100px;
+    
 }
 .b{
 
-    background-color: black;
+    background-color: #E5AC75;
 }
 .w{
 
-    background-color: white;
+    background-color: #2A1000;
 }
