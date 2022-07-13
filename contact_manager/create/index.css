@@ -3,7 +3,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
+    
   }
   
   li {
@@ -38,15 +38,4 @@ ul {
     left: 310px;
     background-color: rgba(0, 195, 255, 0.39);
     border-color: rgba(0, 195, 255, 0.39);;
-  }
-
-  #c{
-    color: white;
-  }
-  #spec{
-    background-color: black;
-  }
-
-  .table{
-    padding-left: 310px;
   }
